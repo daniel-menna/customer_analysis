@@ -2,8 +2,7 @@
 Realizar uma Análise Exploratória buscando insights sobre a ocorrência de churn e o perfil dos clientes: Idade, Gênero, Tempo como Cliente, Salário, Situação de Crédito e sobre a utilização dos produtos: Investimentos, Cartão de Crédito.
 
 # Contexto do negócio:
-Com o objetivo de entender melhor o perfil dos clientes para reduzir o índice de churn ("abandono") dos clientes, a área de CRM de um banco disponibilizou a base de dados bank_customer.csv e solicitou uma análise do perfil dos clientes à área de Analytics.
-A expectativa é que esse estudo forneça informações suficientes para que a área possa definir estratégias de retenção para o público.
+Para entender melhor o perfil dos clientes e reduzir o índice de churn (abandono), a área de CRM de um banco forneceu a base de dados "bank_customer.csv" e solicitou à área de Analytics uma análise detalhada. O objetivo é que este estudo ofereça insights valiosos sobre os clientes, como idade, gênero, tempo como cliente, salário, situação de crédito e uso de produtos bancários. A expectativa é que essas informações ajudem a definir estratégias eficazes de retenção de clientes, aprimorando a experiência e a lealdade do cliente.
 
 # Análises Realizadas
 
