@@ -24,6 +24,6 @@ Análise de Utilização de Produtos:
 Essas análises visam identificar padrões e insights que possam ajudar na definição de estratégias de retenção de clientes.
 
 # Resultados
-Baseado nos resultados das análises realizadas, foi criado um dashboard utilizando Power BI, o qual pode ser acessado neste link https://app.powerbi.com/view?r=eyJrIjoiZTZkOTQ2MTYtNzM3ZC00YTk0LWEwZGUtNzk0MWRkNTNkYWM1IiwidCI6ImI0NWUxMzlkLTZmYzYtNDU3OC1hNTU5LWFjODYwNWM5N2FhNSJ9
+Baseado nos resultados das análises realizadas, foi criado um dashboard utilizando Power BI, o qual pode ser acessado neste link https://bit.ly/4bIWKl7
 
 Além disso, neste respositório é possível acessar a base de dados utilizada para esta análise.
